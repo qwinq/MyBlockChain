@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e89009ad-1ce8-4d22-81de-a9521f29f437" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/lib/go-1.10" />
+  <component name="ProjectId" id="1VjwUqHpCHtPHrxpVbkG1IwV4Ah" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build BlockChain" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="BlockChain" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="BlockChain" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build BlockChain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="67" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577792176735">
+      <screen x="67" y="27" width="609" height="827" />
+    </state>
+    <state x="67" y="236" key="#com.intellij.fileTypes.FileTypeChooser/67.27.609.827@67.27.609.827" timestamp="1577792176735" />
+    <state width="555" height="199" key="GridCell.Tab.0.bottom" timestamp="1577794570339">
+      <screen x="67" y="27" width="609" height="827" />
+    </state>
+    <state width="518" height="199" key="GridCell.Tab.0.bottom/67.27.572.827@67.27.572.827" timestamp="1577792009753" />
+    <state width="555" height="199" key="GridCell.Tab.0.bottom/67.27.609.827@67.27.609.827" timestamp="1577794570339" />
+    <state width="555" height="199" key="GridCell.Tab.0.center" timestamp="1577794570337">
+      <screen x="67" y="27" width="609" height="827" />
+    </state>
+    <state width="518" height="199" key="GridCell.Tab.0.center/67.27.572.827@67.27.572.827" timestamp="1577792009750" />
+    <state width="555" height="199" key="GridCell.Tab.0.center/67.27.609.827@67.27.609.827" timestamp="1577794570337" />
+    <state width="555" height="199" key="GridCell.Tab.0.left" timestamp="1577794570336">
+      <screen x="67" y="27" width="609" height="827" />
+    </state>
+    <state width="518" height="199" key="GridCell.Tab.0.left/67.27.572.827@67.27.572.827" timestamp="1577792009748" />
+    <state width="555" height="199" key="GridCell.Tab.0.left/67.27.609.827@67.27.609.827" timestamp="1577794570336" />
+    <state width="555" height="199" key="GridCell.Tab.0.right" timestamp="1577794570338">
+      <screen x="67" y="27" width="609" height="827" />
+    </state>
+    <state width="518" height="199" key="GridCell.Tab.0.right/67.27.572.827@67.27.572.827" timestamp="1577792009752" />
+    <state width="555" height="199" key="GridCell.Tab.0.right/67.27.609.827@67.27.609.827" timestamp="1577794570338" />
+  </component>
+</project>
