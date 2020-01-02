@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e89009ad-1ce8-4d22-81de-a9521f29f437" name="Default Changelist" comment="" />
+    <list default="true" id="e89009ad-1ce8-4d22-81de-a9521f29f437" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blockChain.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/appveyor.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_386.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_amd64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_arm.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_arm64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_linux.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_openbsd.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_ppc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_ppc64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_ppc64le.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_s390x.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_unix.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_unix_solaris.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bolt_windows.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/boltsync_unix.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bucket.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/bucket_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/cmd/bolt/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/cmd/bolt/main_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/cursor.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/cursor_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/db.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/db_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/doc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/errors.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/freelist.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/freelist_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/node.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/node_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/page.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/page_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/quick_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/simulation_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/tx.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bolt/tx_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/boltTest.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/test.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/block.go" beforeDir="false" afterPath="$PROJECT_DIR$/block.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blockChain.go" beforeDir="false" afterPath="$PROJECT_DIR$/blockChain.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proofofwork.go" beforeDir="false" afterPath="$PROJECT_DIR$/proofofwork.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,18 +63,26 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/lib/go-1.10" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VjwUqHpCHtPHrxpVbkG1IwV4Ah" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="go build BlockChain" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -59,11 +115,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="67" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577792176735">
       <screen x="67" y="27" width="609" height="827" />
     </state>
     <state x="67" y="236" key="#com.intellij.fileTypes.FileTypeChooser/67.27.609.827@67.27.609.827" timestamp="1577792176735" />
+    <state x="73" y="27" width="867" height="830" key="CommitChangelistDialog2" timestamp="1577870780520">
+      <screen x="67" y="27" width="889" height="830" />
+    </state>
+    <state x="73" y="27" width="867" height="830" key="CommitChangelistDialog2/67.27.889.830@67.27.889.830" timestamp="1577870780520" />
     <state width="555" height="199" key="GridCell.Tab.0.bottom" timestamp="1577794570339">
       <screen x="67" y="27" width="609" height="827" />
     </state>
@@ -84,5 +147,9 @@
     </state>
     <state width="518" height="199" key="GridCell.Tab.0.right/67.27.572.827@67.27.572.827" timestamp="1577792009752" />
     <state width="555" height="199" key="GridCell.Tab.0.right/67.27.609.827@67.27.609.827" timestamp="1577794570338" />
+    <state x="278" y="109" width="457" height="663" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1577926873275">
+      <screen x="67" y="27" width="889" height="830" />
+    </state>
+    <state x="278" y="109" width="457" height="663" key="com.goide.refactor.move.GoMoveDeclarationDialog/67.27.889.830@67.27.889.830" timestamp="1577926873275" />
   </component>
 </project>
